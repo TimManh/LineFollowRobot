@@ -1,4 +1,4 @@
-<h1> LineFollowRobot</h1>
+<h1> Treasure Finder Robot</h1>
 
 <ol>
 <h2 align="justify"><a href="https://youtu.be/LGU57HhluS0"> Demo</a></h2>
